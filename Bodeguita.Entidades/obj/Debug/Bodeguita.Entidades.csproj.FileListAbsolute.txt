@@ -1,0 +1,6 @@
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\bin\Debug\Bodeguita.Entidades.dll
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\bin\Debug\Bodeguita.Entidades.pdb
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\obj\Debug\Bodeguita.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\obj\Debug\Bodeguita.Entidades.dll
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\obj\Debug\Bodeguita.Entidades.pdb
+C:\Users\Ever\Documents\proyectos_vs\Bodeguita\Bodeguita\Bodeguita.Entidades\obj\Debug\Bodeguita.Entidades.csprojAssemblyReference.cache
